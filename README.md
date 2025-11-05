@@ -1,4 +1,4 @@
-# Spotify Music Trend Analysis
+# Spotify Music Insights for Audience Engagement & Track Popularity
 
 This project analyzes track-level musical features to understand which characteristics contribute to higher popularity on Spotify. The aim is to translate audio feature patterns into insights that are useful for music producers, playlist curators, and marketing teams.
 
@@ -16,16 +16,14 @@ Identify which audio attributes (danceability, energy, loudness, valence, etc.) 
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights (What Actually Matters)
 
-1. **Popularity is highly concentrated.**  
-   Only a smaller subset of tracks achieve high popularity scores, suggesting that **marketing, playlist placement, and visibility** play a major role beyond just musical quality.
+| Insight | Business Interpretation |
+|--------|-------------------------|
+| Tracks with higher **energy** and **loudness** consistently show higher popularity scores. | Upbeat and aggressively mixed songs are more likely to succeed on mainstream playlists and algorithmic recommendations. |
+| Popularity is **not evenly distributed**; most songs remain in the low–mid popularity range. | Promotion, playlist placement, and marketing strategy have more impact than genre choice alone. |
+| **Danceability** and **valence** (positive mood) correlate with audience engagement. | Music that is both upbeat and emotionally positive performs better in casual listening environments (gyms, cafes, public playlists). |
 
-2. **High-energy and loud tracks tend to perform better.**  
-   Popular tracks often have **higher energy and louder dynamic profiles**, indicating that **upbeat, punchy production styles** are more commercially successful.
-
-3. **Musical attributes influence popularity more than genre alone.**  
-   The data shows **stronger correlations between popularity and production features** (like loudness, valence, and danceability) than with genre labels, meaning **sound design choices matter more than picking the “right” genre.**
 
 ---
 
@@ -52,7 +50,10 @@ Identify which audio attributes (danceability, energy, loudness, valence, etc.) 
 
 ---
 
-## ✅ What This Project Shows About Me
-- Ability to work with a large, real-world dataset
-- Ability to extract patterns and convert them into useful insights
-- Ability to communicate findings visually and professionally
+## ✅ What This Project Demonstrates About My Skill as an Analyst
+
+- I can take a large, noisy dataset and extract the **signals that matter**.
+- I communicate insights in a way that **decision-makers can act on**, not just charts.
+- I understand the difference between **visualization** and **interpretation**.
+- I structure analysis in a **repeatable, business-oriented workflow**.
+
